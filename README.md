@@ -7,4 +7,4 @@ The main program requires changes before it would work with ENIGMA, the ultimate
 
 More info: http://kidchameleon.wikia.com/wiki/Thread:5866
 
-Creative Commons Attribution-NonCommercial 4.0 International Public License
+This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.

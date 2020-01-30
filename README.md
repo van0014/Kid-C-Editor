@@ -6,3 +6,5 @@ The tile picker companion program was compiled with ENIGMA, and therefore is sma
 The main program requires changes before it would work with ENIGMA, the ultimate IDE for this program to fascilitate contributors.
 
 More info: http://kidchameleon.wikia.com/wiki/Thread:5866
+
+Creative Commons Attribution-NonCommercial 4.0 International Public License
